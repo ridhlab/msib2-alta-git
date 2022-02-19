@@ -4,3 +4,4 @@ function hello() {
   console.log("Hello Ridwan");
   console.log("Bismillah");
 }
+hello();
