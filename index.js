@@ -5,3 +5,6 @@ function hello() {
   console.log("Bismillah");
 }
 hello();
+const person = {
+  name: "Ridwan",
+};
