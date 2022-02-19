@@ -8,4 +8,5 @@ hello();
 const person = {
   name: "Ridwan",
   hobby: ["programming", "writing", "music"],
+  age: 22,
 };
